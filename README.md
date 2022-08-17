@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Rihab MDB
-- 👀 I’m interested in mobile developmenet and artificielle intelligence 
+- I’m a software engineer
+- 👀 I’m also interested in mobile developmenet and artificielle intelligence 
 - 🌱 I’m currently learning computer vision and image segmentation
 
 
